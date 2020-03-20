@@ -16,8 +16,7 @@ To start with, your app should consist of 2 files: index.html and style.css.  Th
 
 **Step 1:** Clone your lab1 repository so that you have a local copy on your computer
 
-**Step 2:** ~~Create a project directory on your computer for this lab.~~ On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
-
+**Step 2:** On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
 
 **Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code at the end of this README
 
