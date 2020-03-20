@@ -12,7 +12,7 @@ To start with, your app should consist of 2 files: index.html and style.css.  Th
 
 ## Step-by-Step Tutorial
 
-**Step 0:** Fork this repository (Help [here](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) so that you have a copy of if in your Github account. 
+**Step 0:** Fork this repository ([Help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)) so that you have a copy of if in your Github account. 
 
 **Step 1:** Clone your lab1 repository so that you have a local copy on your computer
 
