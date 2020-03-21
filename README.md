@@ -173,3 +173,8 @@ For now, the content of these pages is not very important, we will continue to d
 </body>
 </html>
 ```
+
+### Submit your work
+On Canvas, dubmit the following:
+- a link to your lab's Github repository 
+- a link to your web page (see this [quick tutorial on how to make a Github page](https://github.com/cs3041-hci-D20/lab0#4-create-your-gh-pages-branch)) 
