@@ -29,7 +29,7 @@ When you’re done, save your work. To view your work so far, click on the index
 
 If you are new to CSS, check this [tutorial on CSS syntax](https://www.w3schools.com/css/css_syntax.asp).
 
-The first thing to do is attach a stylesheet to your index.html file. You can do that by adding this line in the <head> section of the file. 
+The first thing to do is attach a stylesheet to your index.html file. You can do that by adding this line in the `<head>` section of the file. 
 ```
 <link rel="stylesheet" type="text/css" href="style.css"/>
 ```
