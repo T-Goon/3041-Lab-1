@@ -23,6 +23,7 @@ To start with, your app should consist of 2 files: index.html and style.css.  Th
 **Step 4:** Study the HTML code. 
 
 When you’re done, save your work. To view your work so far, click on the index.html in your project directory. A web browser will open and things should look something like this:
+![](https://github.com/cs3041-hci-D20/lab1/blob/master/img/image1.png)
 
 **Step 5:** Next, let’s add some style rules for your app using CSS. 
 
