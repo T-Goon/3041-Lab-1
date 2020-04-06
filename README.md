@@ -58,7 +58,7 @@ To test your styled app, you will need to use a device or a simulator:
 
 To test using your device:
 
-1) Follow the instruction [here](https://github.com/cs3041-hci-D20/lab0#4-create-your-gh-pages-branch) to create a new branch *gh-page*. Make sure the new branch's content is the same as the *master* branch and then push your changes to your remote repository.
+1) Follow the instruction [here](https://github.com/cs3041-hci-D20/lab0#4-create-your-gh-pages-branch) to create a new branch *gh-pages*. Make sure the new branch's content is the same as the *master* branch and then push your changes to your remote repository.
 
 2) Use the following url scheme to access your web-page: 
 ```
