@@ -14,11 +14,11 @@ To start with, your app should consist of 2 files: index.html and style.css.  Th
 
 **Step 0:** Fork this repository ([Help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)) so that you have a copy of it in your Github account. 
 
-**Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-hci-D20/lab0/blob/master/README.md#Clone-and-edit-your-project/))
+**Step 1:** Clone your lab1 repository so that you have a local copy on your computer ([Help](https://github.com/cs3041-hci/lab0/blob/master/README.md#3-clone-and-edit-your-project))
 
 **Step 2:** On your local computer, open Sublime Text (or your favorite text editor) and create two files: *index.html* and *style.css*.
 
-**Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-hci-D20/lab0/blob/master/README.md#Code-for-index.html/)
+**Step 3:** Fill in the content of index.html by copying and pasting the HTML 5 code [here](https://github.com/cs3041-hci-D20/lab1/blob/master/README.md#Code-for-indexhtml)
 
 **Step 4:** Study the HTML code. 
 
