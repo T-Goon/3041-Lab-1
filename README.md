@@ -64,8 +64,9 @@ To test using your device:
 ```
 https://yourGithubUsername.github.io/lab1/index.html
 ```
-Now your page should look something like this:
-![](https://github.com/cs3041-hci-D20/lab1/blob/master/img/image2.png)
+[//]: <> (Now your page should look something like this:
+![](https://github.com/cs3041-hci-D20/lab1/blob/master/img/image2.png))
+
 
 **Step 7:** Continue to style your app by defining some padding (https://www.w3schools.com/css/css_padding.asp). 
 Add the following code to the style.css file.
