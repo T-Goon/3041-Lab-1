@@ -1,5 +1,13 @@
 # Lab 1:  Introducing HTML5 and CSS3
 
+Lab assignment 1 for WPI class CS 3041 Human Computer Interaction. Uses some basic HTML and CSS to style a WPI biking website.
+
+Link to view the website: https://t-goon.github.io/3041-Lab-1/
+
+More details on the assignment can be found below.
+
+**************
+
 In this lab we will cover some basic HTML5 and CSS, as well as ways to make your web app look and feel like a native app. 
 
 ## Your task:
